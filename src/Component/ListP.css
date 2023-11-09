@@ -1,0 +1,12 @@
+.lisPly
+{
+    display: flex;
+    justify-content: space-evenly;
+        align-items: center;
+    margin: 10% 10%;
+}
+
+.Play
+{
+    padding: 10%;
+}
